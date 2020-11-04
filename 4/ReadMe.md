@@ -1,6 +1,10 @@
 Purpose of work: study of the hyperparameters of the neural network, understanding impact of different hyperparameters on accuracy.
 
-There are 2 parts of work in files named Lab1-Part1 and Lab1-Part2 respectively. Both parts represent work with collections of training and test data. Part 1 represent recognition of basic math functions with illustrations of neural net vision of the functions for training. Part 2 represent recognition of simple images for making following work. Data usage represented at https://keras.io/datasets/ and depends on variant.
+There are 2 parts of work in files named Lab1-Part1 and Lab1-Part2 respectively. Both parts represent work with collections of training and test data. 
+
+Part 1 represent recognition of basic math functions with illustrations of neural net vision of the functions for training. 
+
+Part 2 represent recognition of simple images for making following work. Data usage represented at https://keras.io/datasets/ and depends on variant.
 
 There are represented such hyperparameters as
 

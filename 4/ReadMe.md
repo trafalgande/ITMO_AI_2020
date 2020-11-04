@@ -4,17 +4,19 @@ There are 2 parts of work in files named Lab1-Part1 and Lab1-Part2 respectively.
 
 There are represented such hyperparameters as
 
-Layer count
-Neurons count per layer (actually it’s not hyperparameter but structure parameter)
-Learn rate
-Regularization L1 and L2
-Output layer activation type
-Layer activation type
-Loss function type
-Epoch count
+- Layer count
+- Neurons count per layer (actually it’s not hyperparameter but structure parameter)
+- Learn rate
+- Regularization L1 and L2
+- Output layer activation type
+- Layer activation type
+- Loss function type
+- Epoch count
+
 By changing these hyperparameters try to reach max accuracy value(at least 0.95) for Part2 model with fixed epoch count 20
-Change 1st hyperparameter’s value from min to max with minimal step depends on your variant
-Show impact on result using graphs
-Describe impact of each hyperparameter on accuracy.
-Set hyperparameter value back to one which produced max accuracy
-Repeat 2-5 steps for second hyperparameter
+  
+- Change 1st hyperparameter’s value from min to max with minimal step depends on your variant
+- Show impact on result using graphs
+- Describe impact of each hyperparameter on accuracy.
+- Set hyperparameter value back to one which produced max accuracy
+- Repeat 2-5 steps for second hyperparameter
